@@ -9,6 +9,8 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_executable(
     LibraryManager 
     src/main.cpp
+    src/storage/ReaderWriter.cpp
+    src/storage/ReaderWriter.hpp
 )
 
 # ---- Platform‑specific configuration ----
