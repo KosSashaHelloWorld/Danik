@@ -1,0 +1,5 @@
+build
+build-linux
+build-windows
+.vscode
+.git
